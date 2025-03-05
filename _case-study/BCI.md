@@ -6,7 +6,6 @@ caption: "Brain-computer interfaces (BCI) are devices that create a direct commu
 categories:
   - Έξυπνες διεπαφές Χρήστη
   - Μελέτη Περίπτωσης
-  - Φορετός Υπολογισμός
   - Συστήματα Εισόδου και Εξόδου
 tags:
   - Πληκτρολόγιο Ακόρντων
